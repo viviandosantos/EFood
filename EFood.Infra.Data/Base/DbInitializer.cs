@@ -28,9 +28,9 @@ namespace Products.Infra.Data.Base
         {
             var produtos = new Product[]
             {
-                new Product { Name = "Doritos", UnitPrice = 10.0m, CategoryId = 1 },
-                new Product { Name = "Bis",     UnitPrice = 5.0m,  CategoryId = 2 },
-                new Product { Name = "Pepsi",   UnitPrice =  8.0m, CategoryId = 3 },
+                new Product { Name = "Doritos", UnitPrice = 10.0m, CategoryId = 1, Quantity = 10 },
+                new Product { Name = "Bis",     UnitPrice = 5.0m,  CategoryId = 2, Quantity = 10 },
+                new Product { Name = "Pepsi",   UnitPrice =  8.0m, CategoryId = 3, Quantity = 10 },
             };
             foreach (var p in produtos)
             {
