@@ -1,0 +1,9 @@
+C:\Users\FCamara\source\repos\Products\Products.DAC\bin\Debug\netcoreapp3.1\Products.Infra.Data.deps.json
+C:\Users\FCamara\source\repos\Products\Products.DAC\bin\Debug\netcoreapp3.1\Products.Infra.Data.dll
+C:\Users\FCamara\source\repos\Products\Products.DAC\bin\Debug\netcoreapp3.1\Products.Infra.Data.pdb
+C:\Users\FCamara\source\repos\Products\Products.DAC\obj\Debug\netcoreapp3.1\Products.Infra.Data.csprojAssemblyReference.cache
+C:\Users\FCamara\source\repos\Products\Products.DAC\obj\Debug\netcoreapp3.1\Products.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\FCamara\source\repos\Products\Products.DAC\obj\Debug\netcoreapp3.1\Products.Infra.Data.AssemblyInfo.cs
+C:\Users\FCamara\source\repos\Products\Products.DAC\obj\Debug\netcoreapp3.1\Products.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\FCamara\source\repos\Products\Products.DAC\obj\Debug\netcoreapp3.1\Products.Infra.Data.dll
+C:\Users\FCamara\source\repos\Products\Products.DAC\obj\Debug\netcoreapp3.1\Products.Infra.Data.pdb

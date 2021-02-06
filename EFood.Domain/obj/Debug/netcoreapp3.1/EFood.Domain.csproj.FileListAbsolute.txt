@@ -1,0 +1,12 @@
+C:\Users\FCamara\source\repos\EFood\EFood.Domain\bin\Debug\netcoreapp3.1\EFood.Domain.deps.json
+C:\Users\FCamara\source\repos\EFood\EFood.Domain\bin\Debug\netcoreapp3.1\EFood.Domain.dll
+C:\Users\FCamara\source\repos\EFood\EFood.Domain\bin\Debug\netcoreapp3.1\EFood.Domain.pdb
+C:\Users\FCamara\source\repos\EFood\EFood.Domain\bin\Debug\netcoreapp3.1\EFood.Infra.Data.dll
+C:\Users\FCamara\source\repos\EFood\EFood.Domain\bin\Debug\netcoreapp3.1\EFood.Infra.Data.pdb
+C:\Users\FCamara\source\repos\EFood\EFood.Domain\obj\Debug\netcoreapp3.1\EFood.Domain.csprojAssemblyReference.cache
+C:\Users\FCamara\source\repos\EFood\EFood.Domain\obj\Debug\netcoreapp3.1\EFood.Domain.AssemblyInfoInputs.cache
+C:\Users\FCamara\source\repos\EFood\EFood.Domain\obj\Debug\netcoreapp3.1\EFood.Domain.AssemblyInfo.cs
+C:\Users\FCamara\source\repos\EFood\EFood.Domain\obj\Debug\netcoreapp3.1\EFood.Domain.csproj.CoreCompileInputs.cache
+C:\Users\FCamara\source\repos\EFood\EFood.Domain\obj\Debug\netcoreapp3.1\EFood.Domain.csproj.CopyComplete
+C:\Users\FCamara\source\repos\EFood\EFood.Domain\obj\Debug\netcoreapp3.1\EFood.Domain.dll
+C:\Users\FCamara\source\repos\EFood\EFood.Domain\obj\Debug\netcoreapp3.1\EFood.Domain.pdb
